@@ -1,0 +1,1 @@
+para rodar o script é somente citar o nome do arquivo na linha de comando
